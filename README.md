@@ -1,5 +1,3 @@
-# PHP
-
 ## Summary
 
 *Develop PHP based applications. Includes needed tools, extensions, and dependencies.*
