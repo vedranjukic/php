@@ -1,9 +1,5 @@
 {
-    "build": {
-        "dockerfile": "./Dockerfile",
-        "context": ".",
-        "cacheFrom": "docker.io/codeany/template:php"
-    },
+    "image": "docker.io/codeany/template:php",
     "features": {
         "ghcr.io/devcontainers/features/common-utils:1": {
             "installZsh": "true",
