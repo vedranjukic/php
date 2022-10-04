@@ -2,7 +2,7 @@
     "build": {
         "dockerfile": "./Dockerfile",
         "context": ".",
-        "cacheFrom": "codeany/template:php"
+        "cacheFrom": "docker.io/codeany/template:php"
     },
     "features": {
         "ghcr.io/devcontainers/features/common-utils:1": {
